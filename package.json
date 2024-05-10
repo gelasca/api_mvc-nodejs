@@ -1,0 +1,27 @@
+{
+  "name": "aplicacao_backend",
+  "version": "1.0.0",
+  "description": "aplicação backend com consumo de api externa e elaboração de api própria para cadastro em banco de dados.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gelasca/projeto_backend_uninassau.git"
+  },
+  "keywords": [
+    "angular",
+    "mysql",
+    "api",
+    "crud",
+    "backend"
+  ],
+  "author": "https://github.com/gelasca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gelasca/projeto_backend_uninassau/issues"
+  },
+  "homepage": "https://github.com/gelasca/projeto_backend_uninassau#readme"
+}
